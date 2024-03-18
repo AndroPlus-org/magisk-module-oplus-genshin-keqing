@@ -1,0 +1,6 @@
+ro.config.ringtone=ringtone_keqing.ogg
+ro.config.ringtone_sim2=ringtone_keqing.ogg
+ro.config.notification_sound=notification_keqing.ogg
+ro.config.notification_sms=sms_keqing.ogg
+ro.config.notification_sim2=sms_keqing.ogg
+ro.config.alarm_alert=alarm_keqing_1.ogg

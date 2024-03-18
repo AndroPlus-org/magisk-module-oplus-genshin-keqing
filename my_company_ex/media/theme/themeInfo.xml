@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<OplusSmartPhoneThemeInfo>
+   <Author>官方设计</Author>
+  <Summary>一加 Ace 3 原神刻晴定制软件主题</Summary>
+  <Description>亲爱的旅行者，
+不管是初次相遇，还是久别重逢，
+都感谢你选择一加 Ace 3 原神刻晴定制机。
+
+我们为你精心准备了一套刻晴定制软件主题，
+邀请你和我们一起，
+领略独属于刻晴的风采。
+换上这套主题，
+探索其中的满满定制细节吧！</Description>
+  <EditorVersion>6</EditorVersion>
+  <LastModifyTime>2023-12-14 12:43:04</LastModifyTime>
+  <IsGlobalTheme>0</IsGlobalTheme>
+  <UUID>5B4FBA98B79C4B0685EC197028471427</UUID>
+  <PackageName>5B4FBA98B79C4B0685EC197028471427</PackageName>
+  <StandardVersion>1</StandardVersion>
+  <VersionName>1</VersionName>
+  <VersionCode>1</VersionCode>
+  <disableLockPictorial>1</disableLockPictorial>
+  <enableLauncherApplyEffect>1</enableLauncherApplyEffect>
+  <packageInfo>
+    <package name="com.android.launcher" version="001,002"/>
+    <package name="com.android.systemui" version="001"/>
+    <package name="com.coloros.alarmclock" version="001,002"/>
+    <package name="com.coloros.widget.smallweather" version="001"/>
+    <package name="com.oppo.launcher" version="001"/>
+    <package name="icons" version="001"/>
+    <package name="lockscreen" version="001"/>
+    <package name="picture" version="001"/>
+    <package name="wallpaper" version="001"/>
+  </packageInfo>
+  <resolutionInfo>
+    <resolution>2780*1264</resolution>
+    <resolution>1390*632</resolution>
+  </resolutionInfo>
+</OplusSmartPhoneThemeInfo>

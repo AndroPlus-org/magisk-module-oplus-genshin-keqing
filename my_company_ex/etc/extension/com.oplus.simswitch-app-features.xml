@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extend_features>
+	<app_feature name="oplus_custom_settingsprovider" args="StringList:customSettingsList">
+		<StringList name="customSettingsList" args="table=secure|key=optical_fp_anim_style|value=anim_79|update_category=first_boot"/>
+	</app_feature>
+</extend_features>
+<!-- Timestamp 2024-01-18T19:09:54 #86688 -->

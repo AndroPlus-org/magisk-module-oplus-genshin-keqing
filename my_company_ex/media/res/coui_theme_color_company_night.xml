@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<resources>
+<group>
+<child name="Green" id="1">
+<color name="coui_color_primary_green">#FF8D70BD</color>
+<color name="coui_color_primary_text_green">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_green">#FF8D70BD</color>
+<color name="coui_color_secondary_green">#268D70BD</color>
+<color name="coui_color_primary_green_dark">#FF8D70BD</color>
+<color name="coui_color_primary_text_green_dark">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_green_dark">#FF8D70BD</color>
+<color name="coui_color_secondary_green_dark">#268D70BD</color>
+<color name="switchCheckedGreenBarDisabledColor">#268D70BD</color>
+<color name="NxgreenBarDisabledColor">#268D70BD</color>
+<color name="switchCheckedGreenInnerCircleDisabledColor">#268D70BD</color>
+<color name="NxgreenInnerCircleDisabledColor">#268D70BD</color>
+</child>
+<!-- 兼容短信、电话本 -->
+<child name="Green" id="4">
+<color name="coui_color_primary_green">#FF8D70BD</color>
+<color name="coui_color_primary_text_green">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_green">#FF8D70BD</color>
+<color name="coui_color_secondary_green">#268D70BD</color>
+<color name="coui_color_primary_green_dark">#FF8D70BD</color>
+<color name="coui_color_primary_text_green_dark">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_green_dark">#FF8D70BD</color>
+<color name="coui_color_secondary_green_dark">#268D70BD</color>
+<color name="switchCheckedGreenBarDisabledColor">#268D70BD</color>
+<color name="NxgreenBarDisabledColor">#268D70BD</color>
+<color name="switchCheckedGreenInnerCircleDisabledColor">#268D70BD</color>
+<color name="NxgreenInnerCircleDisabledColor">#268D70BD</color>
+</child>
+<child name="Red" id="2">
+<color name="coui_color_primary_red">#FF8D70BD</color>
+<color name="coui_color_primary_text_red">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_red">#FF8D70BD</color>
+<color name="coui_color_secondary_red">#268D70BD</color>
+<color name="coui_color_primary_red_dark">#FF8D70BD</color>
+<color name="coui_color_primary_text_red_dark">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_red_dark">#FF8D70BD</color>
+<color name="coui_color_secondary_red_dark">#268D70BD</color>
+<color name="switchCheckedGreenBarDisabledColor">#268D70BD</color>
+<color name="NxgreenBarDisabledColor">#268D70BD</color>
+<color name="switchCheckedGreenInnerCircleDisabledColor">#268D70BD</color>
+<color name="NxgreenInnerCircleDisabledColor">#268D70BD</color>
+</child>
+<child name="Yellow" id="3">
+<color name="coui_color_primary_yellow">#FF8D70BD</color>
+<color name="coui_color_primary_text_yellow">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_yellow">#FF8D70BD</color>
+<color name="coui_color_secondary_yellow">#268D70BD</color>
+<color name="coui_color_primary_yellow_dark">#FF8D70BD</color>
+<color name="coui_color_primary_text_yellow_dark">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_yellow_dark">#FF8D70BD</color>
+<color name="coui_color_secondary_yellow_dark">#268D70BD</color>
+<color name="switchCheckedGreenBarDisabledColor">#268D70BD</color>
+<color name="NxgreenBarDisabledColor">#268D70BD</color>
+<color name="switchCheckedGreenInnerCircleDisabledColor">#268D70BD</color>
+<color name="NxgreenInnerCircleDisabledColor">#268D70BD</color>
+</child>
+<child name="Blue" id="4">
+<color name="coui_color_primary_blue">#FF8D70BD</color>
+<color name="coui_color_primary_text_blue">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_blue">#FF8D70BD</color>
+<color name="coui_color_secondary_blue">#268D70BD</color>
+<color name="coui_color_primary_blue_dark">#FF8D70BD</color>
+<color name="coui_color_primary_text_blue_dark">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_blue_dark">#FF8D70BD</color>
+<color name="coui_color_secondary_blue_dark">#268D70BD</color>
+<color name="switchCheckedGreenBarDisabledColor">#268D70BD</color>
+<color name="NxgreenBarDisabledColor">#268D70BD</color>
+<color name="switchCheckedGreenInnerCircleDisabledColor">#268D70BD</color>
+<color name="NxgreenInnerCircleDisabledColor">#268D70BD</color>
+</child>
+<child name="Orange" id="5">
+<color name="coui_color_primary_orange">#FF8D70BD</color>
+<color name="coui_color_primary_text_orange">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_orange">#FF8D70BD</color>
+<color name="coui_color_secondary_orange">#268D70BD</color>
+<color name="coui_color_primary_orange_dark">#FF8D70BD</color>
+<color name="coui_color_primary_text_orange_dark">#FF8D70BD</color>
+<color name="coui_color_primary_on_popup_orange_dark">#FF8D70BD</color>
+<color name="coui_color_secondary_orange_dark">#268D70BD</color>
+<color name="switchCheckedGreenBarDisabledColor">#268D70BD</color>
+<color name="NxgreenBarDisabledColor">#268D70BD</color>
+<color name="switchCheckedGreenInnerCircleDisabledColor">#268D70BD</color>
+<color name="NxgreenInnerCircleDisabledColor">#268D70BD</color>
+</child>
+</group></resources>
